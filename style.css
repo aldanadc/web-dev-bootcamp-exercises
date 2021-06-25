@@ -1,0 +1,22 @@
+.card-img-top {
+  height: 15vw;
+  object-fit: cover;
+}
+
+
+.card:hover {
+  transform: scale(1.05);
+  transition-duration: 1s;
+  cursor: pointer;
+}
+
+nav {
+  background-color: #e3f2fd;
+}
+
+/* #img {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  left: 0;
+} */
